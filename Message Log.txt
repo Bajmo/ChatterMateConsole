@@ -1,0 +1,5 @@
+Fatiha	Anas	aaaaaaaaaaa aaaaaaa 123 AAAAAAAA
+Anas	Fatiha	BBBBBBBBBBBB 333 bbb b
+Anas	Fatiha	AAAAAAAAAAAAAAAAAAAAA
+Fatiha	Anas	BBBBBBBBBBBBBBBBBBBBBB
+Fatiha	Anas	(les messages sont aleatoires intentionnellement, juste pour tester le fonctionnement du programme)
